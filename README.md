@@ -2,7 +2,9 @@ Hi 👋 My name is Justin Fauzadani Azka
 ======================================
 
 <p align="center">Hello! I'm Justin Fauzadani Azka, a student at the Faculty of Computing in Universiti Teknologi Malaysia. I'm enthusiastic about acquiring new knowledge, particularly in the field of Graphics and Multimedia Software. UTM has provided me with opportunities to develop skills in programming languages and software utilities, which I believe will be valuable for my future career as a Graphics and Multimedia Software Master.</p>
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+About me
 
 * 🖥️  See my portfolio at [My Portfolio](http://justinfauza.github.io)
 * 🧠  I'm learning C++
