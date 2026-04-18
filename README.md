@@ -2,7 +2,7 @@
 
 ### Graphics and Multimedia Software Specialist
 
-- 🔭 I'm currently working on **Friendslop** — a horror cooperative game
+- 🔭 I'm currently working on **Friendslop** a horror cooperative game
 - 🌱 I'm currently learning **Unity & Godot**
 - 🎓 Studying **Computer Science (Graphic & Multimedia Software)** at Universiti Teknologi Malaysia
 - 📫 Reach me at **justin.fauzadaniazka@gmail.com**
